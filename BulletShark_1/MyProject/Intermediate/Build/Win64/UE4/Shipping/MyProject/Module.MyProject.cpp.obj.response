@@ -52,8 +52,8 @@
 /I Runtime\Core\Public\Traits
 /I Runtime\Core\Public\UObject
 /I Runtime\Core\Public\Windows
-/I E:\REVISED\sharkteef2\MyProject\Intermediate
-/I E:\REVISED\sharkteef2\MyProject\Intermediate\Source
+/I Q:\Ming\Bullet-Shark\BulletShark_1\MyProject\Intermediate
+/I Q:\Ming\Bullet-Shark\BulletShark_1\MyProject\Intermediate\Source
 /I Q:\Ming\VC\INCLUDE
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.10240.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6\include\um"
@@ -61,11 +61,11 @@
 /I "C:\Program Files (x86)\Windows Kits\8.1\include\um"
 /I "C:\Program Files (x86)\Windows Kits\8.1\include\winrt"
 /D_HAS_EXCEPTIONS=0
-/FI"E:\REVISED\sharkteef2\MyProject\Intermediate\Build\Win64\UE4\Shipping\MyProject\PCH.MyProject.h"
-/Yu"E:\REVISED\sharkteef2\MyProject\Intermediate\Build\Win64\UE4\Shipping\MyProject\PCH.MyProject.h"
-/Fp"E:\REVISED\sharkteef2\MyProject\Intermediate\Build\Win64\UE4\Shipping\MyProject\PCH.MyProject.h.pch"
-"E:\REVISED\sharkteef2\MyProject\Intermediate\Build\Win64\UE4\Shipping\MyProject\Module.MyProject.cpp"
-/Fo"E:\REVISED\sharkteef2\MyProject\Intermediate\Build\Win64\UE4\Shipping\MyProject\Module.MyProject.cpp.obj"
+/FI"Q:\Ming\Bullet-Shark\BulletShark_1\MyProject\Intermediate\Build\Win64\UE4\Shipping\MyProject\PCH.MyProject.h"
+/Yu"Q:\Ming\Bullet-Shark\BulletShark_1\MyProject\Intermediate\Build\Win64\UE4\Shipping\MyProject\PCH.MyProject.h"
+/Fp"Q:\Ming\Bullet-Shark\BulletShark_1\MyProject\Intermediate\Build\Win64\UE4\Shipping\MyProject\PCH.MyProject.h.pch"
+"Q:\Ming\Bullet-Shark\BulletShark_1\MyProject\Intermediate\Build\Win64\UE4\Shipping\MyProject\Module.MyProject.cpp"
+/Fo"Q:\Ming\Bullet-Shark\BulletShark_1\MyProject\Intermediate\Build\Win64\UE4\Shipping\MyProject\Module.MyProject.cpp.obj"
 /TP
 /GR-
 /W4
