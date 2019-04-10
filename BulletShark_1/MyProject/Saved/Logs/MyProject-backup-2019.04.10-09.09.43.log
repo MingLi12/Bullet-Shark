@@ -1,0 +1,897 @@
+﻿Log file open, 04/10/19 07:11:23
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 83 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.899821
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin OSVR
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin DonAINavigation
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.225s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 7 (Service Pack 1), CPU: Intel(R) Xeon(R) CPU E5-2640 v3 @ 2.60GHz, GPU: NVIDIA Quadro K2200
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal  -epicusername="Ming Li1" -epicuserid=09e024644b7d49ccaabb13f13523cfab -epiclocale=en-US
+LogInit: Base Directory: Q:/Ming/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.04.10-11.11.24:031][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.10-11.11.24:031][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.10-11.11.24:061][  0]LogHAL: Display: Platform has ~ 32 GB [34262687744 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.10-11.11.24:061][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.04.10-11.11.24:061][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.10-11.11.24:062][  0]LogInit: Computer: A-C613-W08
+[2019.04.10-11.11.24:062][  0]LogInit: User: MINGLI1
+[2019.04.10-11.11.24:062][  0]LogInit: CPU Page size=4096, Cores=16
+[2019.04.10-11.11.24:062][  0]LogInit: High frequency timer resolution =2.533242 MHz
+[2019.04.10-11.11.24:062][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.04.10-11.11.24:062][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.10-11.11.24:062][  0]LogMemory: Process Physical Memory: 117.54 MB used, 117.54 MB peak
+[2019.04.10-11.11.24:062][  0]LogMemory: Process Virtual Memory: 105.55 MB used, 105.55 MB peak
+[2019.04.10-11.11.24:062][  0]LogMemory: Physical Memory: 8036.58 MB used,  24638.86 MB free, 32675.45 MB total
+[2019.04.10-11.11.24:062][  0]LogMemory: Virtual Memory: 586.21 MB used,  24638.86 MB free, 8388608.00 MB total
+[2019.04.10-11.11.24:113][  0]LogInit: Using OS detected language (en-US).
+[2019.04.10-11.11.24:113][  0]LogInit: Using OS detected locale (en-US).
+[2019.04.10-11.11.24:114][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.10-11.11.24:743][  0]LogStreaming: Display: Took  0.630s to InitEngineTextLocalization.
+[2019.04.10-11.11.24:744][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2019.04.10-11.11.24:744][  0]LogWindows: File 'shcore.dll' does not exist
+[2019.04.10-11.11.24:745][  0]LogInit: Setting process to DPI aware
+[2019.04.10-11.11.24:792][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.10-11.11.24:792][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.10-11.11.25:083][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.10-11.11.25:083][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.10-11.11.25:119][  0]LogD3D11RHI:    0. 'NVIDIA Quadro K2200' (Feature Level 11_0)
+[2019.04.10-11.11.25:119][  0]LogD3D11RHI:       4034/0/16081 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.04.10-11.11.25:119][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.10-11.11.25:134][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.10-11.11.25:135][  0]LogD3D11RHI:     GPU DeviceId: 0x13ba (for the marketing name, search the web for "GPU Device Id")
+[2019.04.10-11.11.25:135][  0]LogWindows: EnumDisplayDevices:
+[2019.04.10-11.11.25:135][  0]LogWindows:    0. 'NVIDIA Quadro K2200' (P:1 D:1)
+[2019.04.10-11.11.25:135][  0]LogWindows:    1. 'NVIDIA Quadro K2200' (P:0 D:0)
+[2019.04.10-11.11.25:136][  0]LogWindows:    2. 'NVIDIA Quadro K2200' (P:0 D:0)
+[2019.04.10-11.11.25:136][  0]LogWindows:    3. 'NVIDIA Quadro K2200' (P:0 D:0)
+[2019.04.10-11.11.25:136][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2019.04.10-11.11.25:137][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2019.04.10-11.11.25:137][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2019.04.10-11.11.25:137][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.04.10-11.11.25:137][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro K2200
+[2019.04.10-11.11.25:137][  0]LogD3D11RHI:   Driver Version: 385.69 (internal:22.21.13.8569, unified:385.69)
+[2019.04.10-11.11.25:137][  0]LogD3D11RHI:      Driver Date: 9-16-2017
+[2019.04.10-11.11.25:137][  0]LogRHI: Texture pool is 2824 MB (70% of 4034 MB)
+[2019.04.10-11.11.25:164][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.10-11.11.25:185][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.04.10-11.11.25:190][  0]LogShaderCompilers: Guid format shader working directory is 9 characters bigger than the processId version (../../../../Bullet-Shark/BulletShark_1/MyProject/Intermediate/Shaders/WorkingDirectory/8856/).
+[2019.04.10-11.11.25:190][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/MING_LI1.FITSUNY/AppData/Local/Temp/UnrealShaderWorkingDir/5A04F75E4697F8C669C798BE0C40AFC2/'.
+[2019.04.10-11.11.25:668][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.10-11.11.25:687][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.10-11.11.25:705][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.10-11.11.25:723][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.10-11.11.25:741][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.10-11.11.25:759][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.10-11.11.25:777][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.10-11.11.25:795][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.10-11.11.25:803][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.10-11.11.25:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-11.11.25:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-11.11.25:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-11.11.25:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-11.11.25:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-11.11.25:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-11.11.25:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-11.11.25:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-11.11.25:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-11.11.25:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-11.11.25:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-11.11.25:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-11.11.25:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-11.11.25:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-11.11.25:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-11.11.25:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-11.11.25:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-11.11.25:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-11.11.25:918][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.10-11.11.26:006][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.10-11.11.26:006][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.10-11.11.26:053][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.10-11.11.26:053][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.10-11.11.26:072][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.10-11.11.26:089][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.10-11.11.26:107][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.10-11.11.26:125][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.10-11.11.26:138][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.10-11.11.26:138][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.10-11.11.26:198][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.10-11.11.26:198][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.10-11.11.26:198][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.10-11.11.27:074][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.10-11.11.27:190][  0]LogDerivedDataCache: Loaded boot cache 0.12s 71MB C:/Users/MING_LI1.FITSUNY/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.04.10-11.11.27:190][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/MING_LI1.FITSUNY/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.04.10-11.11.27:191][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Bullet-Shark/BulletShark_1/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.10-11.11.27:191][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.10-11.11.27:191][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Bullet-Shark/BulletShark_1/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.10-11.11.27:191][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.10-11.11.27:206][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.10-11.11.27:219][  0]LogDerivedDataCache: Using Local data cache path C:/Users/MING_LI1.FITSUNY/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.10-11.11.27:219][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.10-11.11.27:219][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.10-11.11.27:266][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.10-11.11.27:268][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.10-11.11.27:270][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.10-11.11.27:377][  0]LogAssetRegistry: FAssetRegistry took 0.0266 seconds to start up
+[2019.04.10-11.11.27:895][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.10-11.11.28:150][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.10-11.11.28:154][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.10-11.11.28:154][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.10-11.11.28:154][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.10-11.11.28:154][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.10-11.11.28:178][  0]LogNetVersion: MyProject 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1110078900)
+[2019.04.10-11.11.29:149][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 2 prioritized culture(s) in 0.161670 seconds
+[2019.04.10-11.11.29:166][  0]LogUObjectArray: 38426 objects as part of root set at end of initial load.
+[2019.04.10-11.11.29:166][  0]LogUObjectAllocator: 6691096 out of 0 bytes used by permanent object pool.
+[2019.04.10-11.11.29:166][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.10-11.11.31:139][  0]LogWindows: Failed to load '../../../Engine/Binaries/ThirdParty/OSVRClientKit/bin/Win64/osvrRenderManager.dll' (GetLastError=127)
+[2019.04.10-11.11.31:140][  0]OSVRLog: Warning: FAILED to load ../../../Engine/Binaries/ThirdParty/OSVRClientKit/bin/Win64/osvrRenderManager.dll
+[2019.04.10-11.11.42:488][  0]OSVREntryPointLog: Display: OSVR client context could not connect. Most likely the server isn't running. Treating this as if the HMD is not connected.
+[2019.04.10-11.11.42:572][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.10-11.11.42:587][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.10-11.11.42:812][  0]SourceControl: Source control is disabled
+[2019.04.10-11.11.42:812][  0]SourceControl: Source control is disabled
+[2019.04.10-11.11.42:814][  0]SourceControl: Source control is disabled
+[2019.04.10-11.11.42:815][  0]SourceControl: Source control is disabled
+[2019.04.10-11.11.43:038][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.10-11.11.43:170][  0]LogOcInput: OculusInput pre-init called
+[2019.04.10-11.11.43:303][  0]LogEngine: Initializing Engine...
+[2019.04.10-11.11.43:304][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.10-11.11.43:307][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.10-11.11.43:307][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.10-11.11.43:307][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.10-11.11.43:307][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.10-11.11.43:828][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.10-11.11.43:852][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.10-11.11.43:897][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.10-11.11.43:961][  0]LogInit: FAudioDevice initialized.
+[2019.04.10-11.11.43:962][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.10-11.11.44:131][  0]LogDerivedDataCache: Saved boot cache 0.17s 71MB C:/Users/MING_LI1.FITSUNY/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.04.10-11.11.44:147][  0]LogInit: Texture streaming: Enabled
+[2019.04.10-11.11.44:182][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.10-11.11.44:206][  0]LogInit: Transaction tracking system initialized
+[2019.04.10-11.11.44:231][  0]BlueprintLog: New page: Editor Load
+[2019.04.10-11.11.44:364][  0]LocalizationService: Localization service is disabled
+[2019.04.10-11.11.44:929][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.10-11.11.44:930][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.10-11.11.44:930][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.10-11.11.44:930][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.10-11.11.44:930][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.10-11.11.44:931][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.10-11.11.44:931][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.10-11.11.45:133][  0]LogFileCache: Scanning file cache for directory 'Q:/Ming/Bullet-Shark/BulletShark_1/MyProject/Content/' took 0.03s
+[2019.04.10-11.11.45:134][  0]SourceControl: Source control is disabled
+[2019.04.10-11.11.45:134][  0]Cmd: MAP LOAD FILE="../../../../Bullet-Shark/BulletShark_1/MyProject/Content/FirstPersonBP/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.10-11.11.45:229][  0]LightingResults: New page: Lighting Build
+[2019.04.10-11.11.45:235][  0]MapCheck: New page: Map Check
+[2019.04.10-11.11.45:235][  0]LightingResults: New page: Lighting Build
+[2019.04.10-11.11.47:422][  0]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2019.04.10-11.11.47:437][  0]LogMaterial: Warning: Q:\Ming\Bullet-Shark\BulletShark_1\MyProject\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.10-11.11.47:438][  0]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.04.10-11.11.47:438][  0]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2019.04.10-11.11.47:438][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.04.10-11.11.47:438][  0]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2019.04.10-11.11.47:438][  0]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.04.10-11.11.47:438][  0]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2019.04.10-11.11.47:438][  0]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.04.10-11.11.47:587][  0]LogAIModule: Creating AISystem for world Menu
+[2019.04.10-11.11.47:599][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.10-11.11.47:706][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.10-11.11.47:783][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 77.19ms to complete.
+[2019.04.10-11.11.47:783][  0]LogFileHelpers: Loading map 'Menu' took 2.650
+[2019.04.10-11.11.47:956][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.11.47:967][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.11.47:978][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.11.47:993][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.11.48:006][  0]LogCollectionManager: Loaded 0 collections in 0.002608 seconds
+[2019.04.10-11.11.48:057][  0]LogFileCache: Scanning file cache for directory 'Q:/Ming/Bullet-Shark/BulletShark_1/MyProject/Saved/Collections/' took 0.01s
+[2019.04.10-11.11.48:057][  0]LogFileCache: Scanning file cache for directory 'Q:/Ming/Bullet-Shark/BulletShark_1/MyProject/Content/Developers/MINGLI1/Collections/' took 0.01s
+[2019.04.10-11.11.48:057][  0]LogFileCache: Scanning file cache for directory 'Q:/Ming/Bullet-Shark/BulletShark_1/MyProject/Content/Collections/' took 0.01s
+[2019.04.10-11.11.48:057][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.04.10-11.11.48:083][  0]LogContentBrowser: Native class hierarchy populated in 0.0257 seconds. Added 2578 classes and 609 folders.
+[2019.04.10-11.11.48:097][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.04.10-11.11.48:831][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.04.10-11.11.48:870][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2019.04.10-11.11.48:935][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.04.10-11.11.48:935][  0]LogLoad: (Engine Initialization) Total time: 28.19 seconds
+[2019.04.10-11.11.48:935][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.10-11.11.48:975][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.10-11.11.48:977][  0]LogSlate: Took 0.000502 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.10-11.11.48:980][  0]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.10-11.11.49:011][  0]LogSlate: Took 0.011277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.10-11.11.49:399][  3]LogAssetRegistry: Asset discovery search completed in 22.0430 seconds
+[2019.04.10-11.11.49:401][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.04.10-11.11.49:401][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000060 seconds (updated 0 objects)
+[2019.04.10-11.14.42:239][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.10-11.14.42:874][676]LogRenderer: Reallocating scene render targets to support 1004x592 Format 10 NumSamples 1 (Frame:1).
+[2019.04.10-11.14.42:874][676]LogSlate: Took 0.012907 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.10-11.14.57:995][242]LogSlate: Took 0.000433 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.10-11.14.58:009][242]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/Menu.Menu
+[2019.04.10-11.14.58:128][242]Cmd: MAP LOAD FILE="../../../../Bullet-Shark/BulletShark_1/MyProject/Content/FirstPersonBP/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.10-11.14.58:128][242]LightingResults: New page: Lighting Build
+[2019.04.10-11.14.58:129][242]LoadErrors: New page: Loading map: Menu.umap
+[2019.04.10-11.14.58:130][242]MapCheck: New page: Map Check
+[2019.04.10-11.14.58:130][242]LightingResults: New page: Lighting Build
+[2019.04.10-11.14.58:237][242]LogAIModule: Creating AISystem for world Menu
+[2019.04.10-11.14.58:243][242]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.10-11.14.58:499][242]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.10-11.14.58:587][242]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 88.605ms to complete.
+[2019.04.10-11.14.58:589][242]LogFileHelpers: Loading map 'Menu' took 0.462
+[2019.04.10-11.15.02:132][618]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.10-11.15.02:231][618]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/FirstPersonBP/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.04.10-11.15.02:232][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.10-11.15.02:245][618]PIE: New page: PIE session: Menu (Apr 10, 2019, 3:15:02 AM)
+[2019.04.10-11.15.02:245][618]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Menu
+[2019.04.10-11.15.02:273][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027005s)
+[2019.04.10-11.15.02:274][618]LogAIModule: Creating AISystem for world Menu
+[2019.04.10-11.15.02:276][618]LogPlayLevel: PIE: World Init took: (0.002985s)
+[2019.04.10-11.15.02:276][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Menu.Menu to /Game/FirstPersonBP/Maps/UEDPIE_0_Menu.Menu (0.030342s)
+[2019.04.10-11.15.02:410][618]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.10-11.15.02:418][618]LogInit: FAudioDevice initialized.
+[2019.04.10-11.15.02:431][618]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.15.02:565][618]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.10-11.15.02:576][618]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2019.04.10-07.15.02
+[2019.04.10-11.15.02:583][618]LogWorld: Bringing up level for play took: 0.008554
+[2019.04.10-11.15.02:625][618]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 10 classes and 0 folders.
+[2019.04.10-11.15.02:662][618]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.04.10-11.15.02:662][618]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.04.10-11.15.02:697][618]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Menu 0.061
+[2019.04.10-11.15.02:698][618]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/FirstPersonBP/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.04.10-11.15.02:749][618]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2019.04.10-11.15.05:295][847]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12zs2dx14sa
+[2019.04.10-11.15.08:850][230]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/FirstPersonBP/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.04.10-11.15.09:036][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.15.09:102][230]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.10-11.15.09:132][230]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.10-11.15.09:133][230]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/FirstPersonBP/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.04.10-11.15.09:213][230]LogSlate: Slate User Unregistered.  User Index 8
+[2019.04.10-11.15.09:213][230]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2019.04.10-11.15.09:235][231]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.04.10-11.15.13:075][594]LogAIModule: Creating AISystem for world testingLevel
+[2019.04.10-11.15.13:081][594]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/testingLevel.testingLevel
+[2019.04.10-11.15.13:200][594]Cmd: MAP LOAD FILE="../../../../Bullet-Shark/BulletShark_1/MyProject/Content/FirstPersonBP/Maps/testingLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.10-11.15.13:200][594]LightingResults: New page: Lighting Build
+[2019.04.10-11.15.13:201][594]LoadErrors: New page: Loading map: testingLevel.umap
+[2019.04.10-11.15.13:201][594]MapCheck: New page: Map Check
+[2019.04.10-11.15.13:201][594]LightingResults: New page: Lighting Build
+[2019.04.10-11.15.13:305][594]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.10-11.15.13:507][594]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.10-11.15.13:601][594]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 93.378ms to complete.
+[2019.04.10-11.15.13:601][594]LogFileHelpers: Loading map 'testingLevel' took 0.402
+[2019.04.10-11.15.20:304][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.10-11.16.34:566][912]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.04.10-11.16.34:566][912]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.04.10-11.16.41:653][221]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.04.10-11.16.42:567][221]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2019.04.10-11.16.44:243][221]LogSlate: Took 0.011318 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.10-11.16.44:916][222]LogSlate: Took 0.005374 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.10-11.17.14:481][445]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/FirstPersonBP/Blueprints/HUD/MakeScore.MakeScore
+[2019.04.10-11.17.15:870][465]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/FirstPersonBP/Blueprints/HUD/Makename.Makename
+[2019.04.10-11.17.42:710][459]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.04.10-11.17.44:338][466]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.10-11.17.44:411][466]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.17.44:411][466]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.10-11.17.44:411][466]PIE: New page: PIE session: testingLevel (Apr 10, 2019, 3:17:44 AM)
+[2019.04.10-11.17.44:411][466]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel
+[2019.04.10-11.17.44:419][466]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007957s)
+[2019.04.10-11.17.44:420][466]LogAIModule: Creating AISystem for world testingLevel
+[2019.04.10-11.17.44:420][466]LogPlayLevel: PIE: World Init took: (0.000942s)
+[2019.04.10-11.17.44:420][466]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/testingLevel.testingLevel to /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel.testingLevel (0.009090s)
+[2019.04.10-11.17.44:548][466]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.10-11.17.44:558][466]LogInit: FAudioDevice initialized.
+[2019.04.10-11.17.44:563][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.17.44:626][466]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.10-11.17.44:629][466]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel.testingLevel up for play (max tick rate 0) at 2019.04.10-07.17.44
+[2019.04.10-11.17.44:629][466]LogWorld: Bringing up level for play took: 0.001903
+[2019.04.10-11.17.44:701][466]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel 0.071
+[2019.04.10-11.17.44:702][466]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.17.46:524][547]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] sdad
+[2019.04.10-11.17.57:168][127]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.17.57:169][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.17.57:243][127]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.10-11.17.57:271][127]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.10-11.17.57:271][127]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.17.57:402][128]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.04.10-11.18.12:275][659]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.04.10-11.18.18:250][853]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.10-11.18.18:341][853]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.18.18:341][853]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.10-11.18.18:341][853]PIE: New page: PIE session: testingLevel (Apr 10, 2019, 3:18:18 AM)
+[2019.04.10-11.18.18:341][853]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel
+[2019.04.10-11.18.18:349][853]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007212s)
+[2019.04.10-11.18.18:350][853]LogAIModule: Creating AISystem for world testingLevel
+[2019.04.10-11.18.18:350][853]LogPlayLevel: PIE: World Init took: (0.001451s)
+[2019.04.10-11.18.18:350][853]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/testingLevel.testingLevel to /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel.testingLevel (0.008924s)
+[2019.04.10-11.18.18:478][853]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.10-11.18.18:487][853]LogInit: FAudioDevice initialized.
+[2019.04.10-11.18.18:493][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.18.18:555][853]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.10-11.18.18:558][853]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel.testingLevel up for play (max tick rate 0) at 2019.04.10-07.18.18
+[2019.04.10-11.18.18:558][853]LogWorld: Bringing up level for play took: 0.001877
+[2019.04.10-11.18.18:599][853]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel -0.029
+[2019.04.10-11.18.18:600][853]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.18.20:870][924]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] sadasdwe8
+[2019.04.10-11.18.25:351][ 98]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.18.25:352][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.18.25:421][ 98]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.10-11.18.25:455][ 98]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.10-11.18.25:456][ 98]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.18.25:623][ 99]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.04.10-11.18.30:609][286]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/FirstPersonBP/Blueprints/HUD/LB_Playerinfo.LB_Playerinfo
+[2019.04.10-11.18.40:399][793]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/HUD/GameSave.GameSave
+[2019.04.10-11.18.42:604][880]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/HUD/scoreSave.scoreSave
+[2019.04.10-11.18.52:106][422]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/FirstPersonBP/Blueprints/HUD/ScoreBoard.ScoreBoard
+[2019.04.10-11.19.15:029][621]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/FirstPersonBP/Blueprints/LeaderBoard.LeaderBoard
+[2019.04.10-11.19.43:233][965]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2019.04.10-11.19.50:608][377]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.10-11.22.33:691][685]BlueprintLog: New page: Compile LeaderBoard
+[2019.04.10-11.23.19:565][937]BlueprintLog: New page: Compile LeaderBoard
+[2019.04.10-11.23.24:124][107]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.10-11.23.24:216][107]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.23.24:217][107]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.10-11.23.24:217][107]PIE: New page: PIE session: testingLevel (Apr 10, 2019, 3:23:24 AM)
+[2019.04.10-11.23.24:217][107]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel
+[2019.04.10-11.23.24:222][107]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004967s)
+[2019.04.10-11.23.24:223][107]LogAIModule: Creating AISystem for world testingLevel
+[2019.04.10-11.23.24:223][107]LogPlayLevel: PIE: World Init took: (0.000953s)
+[2019.04.10-11.23.24:223][107]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/testingLevel.testingLevel to /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel.testingLevel (0.006069s)
+[2019.04.10-11.23.24:342][107]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.10-11.23.24:352][107]LogInit: FAudioDevice initialized.
+[2019.04.10-11.23.24:358][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.23.24:397][107]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.10-11.23.24:399][107]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel.testingLevel up for play (max tick rate 0) at 2019.04.10-07.23.24
+[2019.04.10-11.23.24:400][107]LogWorld: Bringing up level for play took: 0.001182
+[2019.04.10-11.23.24:428][107]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel -0.189
+[2019.04.10-11.23.24:429][107]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.23.26:476][237]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] rtret
+[2019.04.10-11.23.29:691][466]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.23.29:692][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.23.29:765][466]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.10-11.23.29:796][466]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.10-11.23.29:797][466]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.23.29:966][467]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.04.10-11.23.31:312][538]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.10-11.23.31:407][538]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.23.31:407][538]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.10-11.23.31:407][538]PIE: New page: PIE session: testingLevel (Apr 10, 2019, 3:23:31 AM)
+[2019.04.10-11.23.31:408][538]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel
+[2019.04.10-11.23.31:412][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004463s)
+[2019.04.10-11.23.31:413][538]LogAIModule: Creating AISystem for world testingLevel
+[2019.04.10-11.23.31:413][538]LogPlayLevel: PIE: World Init took: (0.001342s)
+[2019.04.10-11.23.31:414][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/testingLevel.testingLevel to /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel.testingLevel (0.005974s)
+[2019.04.10-11.23.31:543][538]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.10-11.23.31:552][538]LogInit: FAudioDevice initialized.
+[2019.04.10-11.23.31:558][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.23.31:605][538]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.10-11.23.31:607][538]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel.testingLevel up for play (max tick rate 0) at 2019.04.10-07.23.31
+[2019.04.10-11.23.31:608][538]LogWorld: Bringing up level for play took: 0.001892
+[2019.04.10-11.23.31:635][538]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel 1.018
+[2019.04.10-11.23.31:635][538]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.23.34:097][703]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] yoop
+[2019.04.10-11.23.36:575][871]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.23.36:576][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.23.36:641][871]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.10-11.23.36:674][871]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.10-11.23.36:675][871]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.23.36:842][872]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.04.10-11.24.18:870][433]LogEditorTransaction: Undo Create Reroute Node
+[2019.04.10-11.24.23:678][603]BlueprintLog: New page: Compile LeaderBoard
+[2019.04.10-11.24.24:808][636]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.10-11.24.24:898][636]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.24.24:898][636]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.10-11.24.24:899][636]PIE: New page: PIE session: testingLevel (Apr 10, 2019, 3:24:24 AM)
+[2019.04.10-11.24.24:899][636]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel
+[2019.04.10-11.24.24:905][636]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006361s)
+[2019.04.10-11.24.24:908][636]LogAIModule: Creating AISystem for world testingLevel
+[2019.04.10-11.24.24:908][636]LogPlayLevel: PIE: World Init took: (0.002939s)
+[2019.04.10-11.24.24:908][636]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/testingLevel.testingLevel to /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel.testingLevel (0.009543s)
+[2019.04.10-11.24.25:050][636]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.10-11.24.25:060][636]LogInit: FAudioDevice initialized.
+[2019.04.10-11.24.25:066][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.24.25:109][636]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.10-11.24.25:111][636]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel.testingLevel up for play (max tick rate 0) at 2019.04.10-07.24.25
+[2019.04.10-11.24.25:112][636]LogWorld: Bringing up level for play took: 0.001162
+[2019.04.10-11.24.25:132][636]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel 0.518
+[2019.04.10-11.24.25:133][636]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.24.27:807][800]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] uopuopu
+[2019.04.10-11.24.33:390][170]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.24.33:390][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.24.33:483][170]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.10-11.24.33:511][170]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.10-11.24.33:511][170]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.24.33:681][171]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.04.10-11.24.37:685][457]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.10-11.24.37:760][457]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.24.37:760][457]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.10-11.24.37:760][457]PIE: New page: PIE session: testingLevel (Apr 10, 2019, 3:24:37 AM)
+[2019.04.10-11.24.37:760][457]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel
+[2019.04.10-11.24.37:764][457]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003645s)
+[2019.04.10-11.24.37:766][457]LogAIModule: Creating AISystem for world testingLevel
+[2019.04.10-11.24.37:766][457]LogPlayLevel: PIE: World Init took: (0.001955s)
+[2019.04.10-11.24.37:766][457]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/testingLevel.testingLevel to /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel.testingLevel (0.005741s)
+[2019.04.10-11.24.37:907][457]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.10-11.24.37:919][457]LogInit: FAudioDevice initialized.
+[2019.04.10-11.24.37:924][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.24.37:970][457]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.10-11.24.37:972][457]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel.testingLevel up for play (max tick rate 0) at 2019.04.10-07.24.37
+[2019.04.10-11.24.37:973][457]LogWorld: Bringing up level for play took: 0.001873
+[2019.04.10-11.24.38:000][457]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel -0.614
+[2019.04.10-11.24.38:000][457]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.24.40:454][613]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] carrot
+[2019.04.10-11.24.42:733][769]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.24.42:733][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.24.42:799][769]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.10-11.24.42:831][769]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.10-11.24.42:831][769]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.24.43:004][770]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.04.10-11.24.51:126][157]BlueprintLog: New page: Compile LeaderBoard
+[2019.04.10-11.25.42:206][225]BlueprintLog: New page: Compile LeaderBoard
+[2019.04.10-11.25.43:205][255]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.10-11.25.43:278][255]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.25.43:278][255]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.10-11.25.43:278][255]PIE: New page: PIE session: testingLevel (Apr 10, 2019, 3:25:43 AM)
+[2019.04.10-11.25.43:278][255]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel
+[2019.04.10-11.25.43:282][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003873s)
+[2019.04.10-11.25.43:284][255]LogAIModule: Creating AISystem for world testingLevel
+[2019.04.10-11.25.43:284][255]LogPlayLevel: PIE: World Init took: (0.002294s)
+[2019.04.10-11.25.43:284][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/testingLevel.testingLevel to /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel.testingLevel (0.006324s)
+[2019.04.10-11.25.43:419][255]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.10-11.25.43:428][255]LogInit: FAudioDevice initialized.
+[2019.04.10-11.25.43:435][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.25.43:478][255]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.10-11.25.43:480][255]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel.testingLevel up for play (max tick rate 0) at 2019.04.10-07.25.43
+[2019.04.10-11.25.43:481][255]LogWorld: Bringing up level for play took: 0.001908
+[2019.04.10-11.25.43:506][255]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel 0.895
+[2019.04.10-11.25.43:507][255]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.25.45:252][380]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] sadasd
+[2019.04.10-11.25.51:174][831]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.25.51:174][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.25.51:241][831]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.10-11.25.51:276][831]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.10-11.25.51:276][831]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.25.51:433][832]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.04.10-11.25.57:332][283]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.10-11.25.57:414][283]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.25.57:414][283]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.10-11.25.57:414][283]PIE: New page: PIE session: testingLevel (Apr 10, 2019, 3:25:57 AM)
+[2019.04.10-11.25.57:414][283]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel
+[2019.04.10-11.25.57:418][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003781s)
+[2019.04.10-11.25.57:421][283]LogAIModule: Creating AISystem for world testingLevel
+[2019.04.10-11.25.57:421][283]LogPlayLevel: PIE: World Init took: (0.002456s)
+[2019.04.10-11.25.57:421][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/testingLevel.testingLevel to /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel.testingLevel (0.006382s)
+[2019.04.10-11.25.57:549][283]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.10-11.25.57:558][283]LogInit: FAudioDevice initialized.
+[2019.04.10-11.25.57:564][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.25.57:608][283]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.10-11.25.57:611][283]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel.testingLevel up for play (max tick rate 0) at 2019.04.10-07.25.57
+[2019.04.10-11.25.57:611][283]LogWorld: Bringing up level for play took: 0.001825
+[2019.04.10-11.25.57:638][283]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel 1.027
+[2019.04.10-11.25.57:639][283]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.26.00:006][472]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 6w8e7q65w413asd
+[2019.04.10-11.26.01:697][637]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.26.01:698][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.26.01:757][637]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.10-11.26.01:787][637]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.10-11.26.01:788][637]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.26.01:938][638]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.04.10-11.26.03:806][817]LogEditorTransaction: Undo Create Pin Link
+[2019.04.10-11.26.04:104][832]LogEditorTransaction: Undo Create Pin Link
+[2019.04.10-11.26.04:336][837]LogEditorTransaction: Undo Add Node
+[2019.04.10-11.26.06:002][897]BlueprintLog: New page: Compile LeaderBoard
+[2019.04.10-11.26.06:774][914]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.10-11.26.06:862][914]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.26.06:862][914]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.10-11.26.06:863][914]PIE: New page: PIE session: testingLevel (Apr 10, 2019, 3:26:06 AM)
+[2019.04.10-11.26.06:863][914]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel
+[2019.04.10-11.26.06:871][914]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008295s)
+[2019.04.10-11.26.06:872][914]LogAIModule: Creating AISystem for world testingLevel
+[2019.04.10-11.26.06:873][914]LogPlayLevel: PIE: World Init took: (0.001666s)
+[2019.04.10-11.26.06:873][914]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/testingLevel.testingLevel to /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel.testingLevel (0.010243s)
+[2019.04.10-11.26.07:007][914]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.10-11.26.07:017][914]LogInit: FAudioDevice initialized.
+[2019.04.10-11.26.07:022][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.26.07:064][914]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.10-11.26.07:066][914]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel.testingLevel up for play (max tick rate 0) at 2019.04.10-07.26.07
+[2019.04.10-11.26.07:066][914]LogWorld: Bringing up level for play took: 0.001122
+[2019.04.10-11.26.07:086][914]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel 0.476
+[2019.04.10-11.26.07:087][914]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.26.09:141][ 83]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] asdwq+9e8qw6ed2
+[2019.04.10-11.26.11:820][351]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.26.11:821][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.26.11:878][351]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.10-11.26.11:911][351]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.10-11.26.11:912][351]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.26.12:046][352]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.04.10-11.26.56:482][682]BlueprintLog: New page: Compile LeaderBoard
+[2019.04.10-11.26.57:246][707]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.10-11.26.57:346][707]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.26.57:346][707]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.10-11.26.57:346][707]PIE: New page: PIE session: testingLevel (Apr 10, 2019, 3:26:57 AM)
+[2019.04.10-11.26.57:346][707]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel
+[2019.04.10-11.26.57:356][707]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009050s)
+[2019.04.10-11.26.57:357][707]LogAIModule: Creating AISystem for world testingLevel
+[2019.04.10-11.26.57:357][707]LogPlayLevel: PIE: World Init took: (0.001086s)
+[2019.04.10-11.26.57:357][707]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/testingLevel.testingLevel to /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel.testingLevel (0.010375s)
+[2019.04.10-11.26.57:465][707]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.10-11.26.57:474][707]LogInit: FAudioDevice initialized.
+[2019.04.10-11.26.57:479][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.26.57:530][707]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.10-11.26.57:533][707]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel.testingLevel up for play (max tick rate 0) at 2019.04.10-07.26.57
+[2019.04.10-11.26.57:533][707]LogWorld: Bringing up level for play took: 0.001733
+[2019.04.10-11.26.57:561][707]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel 0.952
+[2019.04.10-11.26.57:562][707]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.26.59:321][835]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] retf54eraf3
+[2019.04.10-11.27.02:602][ 86]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.27.02:602][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.27.02:673][ 86]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.10-11.27.02:703][ 86]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.10-11.27.02:703][ 86]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.27.02:849][ 87]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.04.10-11.27.04:112][179]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.10-11.27.04:181][179]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.27.04:181][179]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.10-11.27.04:182][179]PIE: New page: PIE session: testingLevel (Apr 10, 2019, 3:27:04 AM)
+[2019.04.10-11.27.04:182][179]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel
+[2019.04.10-11.27.04:188][179]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006545s)
+[2019.04.10-11.27.04:189][179]LogAIModule: Creating AISystem for world testingLevel
+[2019.04.10-11.27.04:190][179]LogPlayLevel: PIE: World Init took: (0.001411s)
+[2019.04.10-11.27.04:190][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/testingLevel.testingLevel to /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel.testingLevel (0.008162s)
+[2019.04.10-11.27.04:305][179]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.10-11.27.04:314][179]LogInit: FAudioDevice initialized.
+[2019.04.10-11.27.04:319][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.27.04:358][179]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.10-11.27.04:359][179]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel.testingLevel up for play (max tick rate 0) at 2019.04.10-07.27.04
+[2019.04.10-11.27.04:359][179]LogWorld: Bringing up level for play took: 0.000922
+[2019.04.10-11.27.04:378][179]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel -0.231
+[2019.04.10-11.27.04:378][179]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.27.06:006][294]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] eqwe
+[2019.04.10-11.27.08:889][519]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.27.08:890][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.27.08:949][519]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.10-11.27.08:980][519]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.10-11.27.08:981][519]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.27.09:114][520]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.04.10-11.27.10:540][596]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.10-11.27.10:610][596]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.27.10:610][596]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.10-11.27.10:611][596]PIE: New page: PIE session: testingLevel (Apr 10, 2019, 3:27:10 AM)
+[2019.04.10-11.27.10:611][596]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel
+[2019.04.10-11.27.10:616][596]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005253s)
+[2019.04.10-11.27.10:617][596]LogAIModule: Creating AISystem for world testingLevel
+[2019.04.10-11.27.10:617][596]LogPlayLevel: PIE: World Init took: (0.000828s)
+[2019.04.10-11.27.10:617][596]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/testingLevel.testingLevel to /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel.testingLevel (0.006223s)
+[2019.04.10-11.27.10:721][596]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.10-11.27.10:730][596]LogInit: FAudioDevice initialized.
+[2019.04.10-11.27.10:736][596]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.27.10:777][596]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.10-11.27.10:779][596]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel.testingLevel up for play (max tick rate 0) at 2019.04.10-07.27.10
+[2019.04.10-11.27.10:779][596]LogWorld: Bringing up level for play took: 0.001029
+[2019.04.10-11.27.10:798][596]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel 0.19
+[2019.04.10-11.27.10:798][596]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.27.13:013][720]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] hopppo
+[2019.04.10-11.27.14:912][835]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.27.14:913][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.27.14:979][835]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.10-11.27.15:010][835]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.10-11.27.15:011][835]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.27.15:180][836]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.04.10-11.27.21:803][118]BlueprintLog: New page: Compile LeaderBoard
+[2019.04.10-11.29.30:228][932]BlueprintLog: New page: Compile LeaderBoard
+[2019.04.10-11.29.31:027][954]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.10-11.29.31:117][954]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.29.31:118][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.10-11.29.31:118][954]PIE: New page: PIE session: testingLevel (Apr 10, 2019, 3:29:31 AM)
+[2019.04.10-11.29.31:118][954]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel
+[2019.04.10-11.29.31:127][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008460s)
+[2019.04.10-11.29.31:128][954]LogAIModule: Creating AISystem for world testingLevel
+[2019.04.10-11.29.31:128][954]LogPlayLevel: PIE: World Init took: (0.001548s)
+[2019.04.10-11.29.31:128][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/testingLevel.testingLevel to /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel.testingLevel (0.010251s)
+[2019.04.10-11.29.31:268][954]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.10-11.29.31:278][954]LogInit: FAudioDevice initialized.
+[2019.04.10-11.29.31:283][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.29.31:327][954]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.10-11.29.31:329][954]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel.testingLevel up for play (max tick rate 0) at 2019.04.10-07.29.31
+[2019.04.10-11.29.31:329][954]LogWorld: Bringing up level for play took: 0.001090
+[2019.04.10-11.29.31:356][954]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel 0.753
+[2019.04.10-11.29.31:356][954]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.29.33:247][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.10-11.29.34:921][189]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] wattoop
+[2019.04.10-11.29.35:536][233]LogScript: Warning: Script Msg: Attempted to insert an item into array SortedScores out of bounds [-1/0]!
+[2019.04.10-11.29.35:536][233]LogScript: Warning: Script Msg: Attempted to insert an item into array SortedNames out of bounds [-1/0]!
+[2019.04.10-11.29.41:634][648]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.29.41:635][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.29.41:725][648]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.10-11.29.41:759][648]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.10-11.29.41:759][648]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.29.41:929][649]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.04.10-11.29.43:130][710]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.10-11.29.43:206][710]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.29.43:206][710]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.10-11.29.43:206][710]PIE: New page: PIE session: testingLevel (Apr 10, 2019, 3:29:43 AM)
+[2019.04.10-11.29.43:207][710]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel
+[2019.04.10-11.29.43:212][710]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005617s)
+[2019.04.10-11.29.43:213][710]LogAIModule: Creating AISystem for world testingLevel
+[2019.04.10-11.29.43:213][710]LogPlayLevel: PIE: World Init took: (0.000899s)
+[2019.04.10-11.29.43:213][710]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/testingLevel.testingLevel to /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel.testingLevel (0.006657s)
+[2019.04.10-11.29.43:351][710]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.10-11.29.43:360][710]LogInit: FAudioDevice initialized.
+[2019.04.10-11.29.43:366][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.29.43:405][710]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.10-11.29.43:407][710]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel.testingLevel up for play (max tick rate 0) at 2019.04.10-07.29.43
+[2019.04.10-11.29.43:407][710]LogWorld: Bringing up level for play took: 0.001083
+[2019.04.10-11.29.43:427][710]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel 0.825
+[2019.04.10-11.29.43:428][710]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.29.45:774][872]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] ????
+[2019.04.10-11.29.46:364][909]LogScript: Warning: Script Msg: Attempted to insert an item into array SortedScores out of bounds [-1/0]!
+[2019.04.10-11.29.46:364][909]LogScript: Warning: Script Msg: Attempted to insert an item into array SortedNames out of bounds [-1/0]!
+[2019.04.10-11.29.47:640][  1]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.29.47:640][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.29.47:706][  1]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.10-11.29.47:735][  1]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.10-11.29.47:736][  1]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.29.47:893][  2]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.04.10-11.30.04:352][937]BlueprintLog: New page: Compile LeaderBoard
+[2019.04.10-11.30.16:060][538]LogSlate: Window 'LeaderBoard*' being destroyed
+[2019.04.10-11.31.41:598][879]LogEditorTransaction: Undo Create Pin Link
+[2019.04.10-11.31.41:950][894]LogEditorTransaction: Undo Move Node
+[2019.04.10-11.31.42:597][919]LogEditorTransaction: Undo Move Node
+[2019.04.10-11.31.43:186][941]LogEditorTransaction: Undo Move Node
+[2019.04.10-11.31.43:963][975]LogEditorTransaction: Undo Add Node
+[2019.04.10-11.32.31:073][134]BlueprintLog: New page: Compile LeaderBoard
+[2019.04.10-11.32.31:814][153]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.10-11.32.31:893][153]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.32.31:893][153]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.10-11.32.31:893][153]PIE: New page: PIE session: testingLevel (Apr 10, 2019, 3:32:31 AM)
+[2019.04.10-11.32.31:894][153]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel
+[2019.04.10-11.32.31:898][153]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004168s)
+[2019.04.10-11.32.31:899][153]LogAIModule: Creating AISystem for world testingLevel
+[2019.04.10-11.32.31:899][153]LogPlayLevel: PIE: World Init took: (0.001412s)
+[2019.04.10-11.32.31:899][153]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/testingLevel.testingLevel to /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel.testingLevel (0.005729s)
+[2019.04.10-11.32.32:034][153]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.10-11.32.32:044][153]LogInit: FAudioDevice initialized.
+[2019.04.10-11.32.32:050][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.32.32:094][153]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.10-11.32.32:096][153]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel.testingLevel up for play (max tick rate 0) at 2019.04.10-07.32.32
+[2019.04.10-11.32.32:097][153]LogWorld: Bringing up level for play took: 0.001830
+[2019.04.10-11.32.32:127][153]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel -0.469
+[2019.04.10-11.32.32:127][153]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.32.34:058][274]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 356
+[2019.04.10-11.32.34:540][309]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'SortedScores' of length 0 in '/Game/FirstPersonBP/Blueprints/LeaderBoard.LeaderBoard_C'!
+[2019.04.10-11.32.38:526][575]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.32.38:527][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.32.38:636][575]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.10-11.32.38:677][575]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.10-11.32.38:677][575]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.32.38:860][576]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.04.10-11.32.39:661][617]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.10-11.32.39:752][617]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.32.39:753][617]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.10-11.32.39:753][617]PIE: New page: PIE session: testingLevel (Apr 10, 2019, 3:32:39 AM)
+[2019.04.10-11.32.39:753][617]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel
+[2019.04.10-11.32.39:758][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005080s)
+[2019.04.10-11.32.39:759][617]LogAIModule: Creating AISystem for world testingLevel
+[2019.04.10-11.32.39:759][617]LogPlayLevel: PIE: World Init took: (0.001419s)
+[2019.04.10-11.32.39:760][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/testingLevel.testingLevel to /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel.testingLevel (0.006725s)
+[2019.04.10-11.32.39:888][617]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.10-11.32.39:897][617]LogInit: FAudioDevice initialized.
+[2019.04.10-11.32.39:902][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.32.39:949][617]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.10-11.32.39:951][617]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel.testingLevel up for play (max tick rate 0) at 2019.04.10-07.32.39
+[2019.04.10-11.32.39:952][617]LogWorld: Bringing up level for play took: 0.001853
+[2019.04.10-11.32.39:979][617]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel -0.616
+[2019.04.10-11.32.39:980][617]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.32.42:915][794]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] wqwaty
+[2019.04.10-11.32.43:326][823]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'SortedScores' of length 0 in '/Game/FirstPersonBP/Blueprints/LeaderBoard.LeaderBoard_C'!
+[2019.04.10-11.32.44:310][882]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.32.44:310][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.32.44:377][882]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.10-11.32.44:416][882]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.10-11.32.44:416][882]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.32.44:583][883]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.04.10-11.32.47:327][ 15]LogEditorTransaction: Undo Add Node
+[2019.04.10-11.32.47:610][ 23]LogEditorTransaction: Undo Move Node
+[2019.04.10-11.32.48:486][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/LeaderBoard" FILE="../../../../Bullet-Shark/BulletShark_1/MyProject/Content/FirstPersonBP/Blueprints/LeaderBoard.uasset" SILENT=true
+[2019.04.10-11.32.48:567][ 64]LogSavePackage: Moving '../../../../Bullet-Shark/BulletShark_1/MyProject/Saved/LeaderBoard22E71BF34F25ACD300FA5AAD3ABE5607.tmp' to '../../../../Bullet-Shark/BulletShark_1/MyProject/Content/FirstPersonBP/Blueprints/LeaderBoard.uasset'
+[2019.04.10-11.32.51:603][220]BlueprintLog: New page: Compile LeaderBoard
+[2019.04.10-11.33.20:950][ 54]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/testingLevel' took 0.134
+[2019.04.10-11.33.20:952][ 54]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2019.04.10-11.33.20:971][ 54]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2019.04.10-11.33.20:971][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2019.04.10-11.33.21:188][ 54]LogSavePackage: Moving '../../../../Bullet-Shark/BulletShark_1/MyProject/Saved/FirstPersonCharacter_Auto11FA1611044915149C6523EB1C11A3E8B.tmp' to '../../../../Bullet-Shark/BulletShark_1/MyProject/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto1.uasset'
+[2019.04.10-11.33.21:190][ 54]LogFileHelpers: Auto-saving content packages took 0.239
+[2019.04.10-11.35.08:142][434]LogSlate: Took 0.015622 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.04.10-11.35.27:101][692]LogEditorTransaction: Undo Move Node
+[2019.04.10-11.35.27:525][695]LogEditorTransaction: Undo Create Pin Link
+[2019.04.10-11.35.28:806][732]LogEditorTransaction: Undo Move Node
+[2019.04.10-11.35.29:731][756]LogEditorTransaction: Undo Add Node
+[2019.04.10-11.35.40:508][269]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.04.10-11.35.47:366][673]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.10-11.35.47:475][673]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.35.47:475][673]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.10-11.35.47:476][673]PIE: New page: PIE session: testingLevel (Apr 10, 2019, 3:35:47 AM)
+[2019.04.10-11.35.47:476][673]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel
+[2019.04.10-11.35.47:484][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008343s)
+[2019.04.10-11.35.47:485][673]LogAIModule: Creating AISystem for world testingLevel
+[2019.04.10-11.35.47:485][673]LogPlayLevel: PIE: World Init took: (0.001180s)
+[2019.04.10-11.35.47:485][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/testingLevel.testingLevel to /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel.testingLevel (0.009748s)
+[2019.04.10-11.35.47:635][673]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.10-11.35.47:645][673]LogInit: FAudioDevice initialized.
+[2019.04.10-11.35.47:651][673]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.35.47:709][673]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.10-11.35.47:711][673]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel.testingLevel up for play (max tick rate 0) at 2019.04.10-07.35.47
+[2019.04.10-11.35.47:712][673]LogWorld: Bringing up level for play took: 0.001857
+[2019.04.10-11.35.47:749][673]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel 1.162
+[2019.04.10-11.35.47:750][673]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.35.50:261][953]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] hooop
+[2019.04.10-11.35.53:178][299]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.35.53:178][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.35.53:237][299]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.10-11.35.53:269][299]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.10-11.35.53:270][299]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.35.53:396][300]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.04.10-11.35.56:720][606]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.10-11.35.56:823][606]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.35.56:823][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.10-11.35.56:823][606]PIE: New page: PIE session: testingLevel (Apr 10, 2019, 3:35:56 AM)
+[2019.04.10-11.35.56:824][606]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel
+[2019.04.10-11.35.56:828][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004366s)
+[2019.04.10-11.35.56:829][606]LogAIModule: Creating AISystem for world testingLevel
+[2019.04.10-11.35.56:829][606]LogPlayLevel: PIE: World Init took: (0.001344s)
+[2019.04.10-11.35.56:829][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/testingLevel.testingLevel to /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel.testingLevel (0.005883s)
+[2019.04.10-11.35.56:955][606]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.10-11.35.56:963][606]LogInit: FAudioDevice initialized.
+[2019.04.10-11.35.56:969][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.35.57:020][606]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.10-11.35.57:021][606]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel.testingLevel up for play (max tick rate 0) at 2019.04.10-07.35.57
+[2019.04.10-11.35.57:021][606]LogWorld: Bringing up level for play took: 0.000862
+[2019.04.10-11.35.57:056][606]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_testingLevel 0.469
+[2019.04.10-11.35.57:057][606]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.35.59:919][922]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] wattooo
+[2019.04.10-11.36.03:464][328]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.36.03:464][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-11.36.03:552][328]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.10-11.36.03:582][328]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.10-11.36.03:582][328]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/testingLevel.testingLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/testingLevel.testingLevel:PersistentLevel.testingLevel'
+[2019.04.10-11.36.03:721][329]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.04.10-11.36.11:162][830]LogSavePackage: Moving '../../../../Bullet-Shark/BulletShark_1/MyProject/Saved/FirstPersonCharacter6EA289594F1B7A1CBE77FAA54685C246.tmp' to '../../../../Bullet-Shark/BulletShark_1/MyProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
