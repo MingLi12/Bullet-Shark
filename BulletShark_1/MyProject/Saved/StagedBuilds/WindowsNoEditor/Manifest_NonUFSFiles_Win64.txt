@@ -1,4 +1,4 @@
-MyProject/Binaries/Win64/MyProject-Win64-Shipping.exe	2019-05-14T01:12:07.277Z
+MyProject/Binaries/Win64/MyProject-Win64-Shipping.exe	2019-05-14T16:42:42.183Z
 Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe	2018-08-29T23:26:36.584Z
 Engine/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win64/OVRPlugin.dll	2018-08-29T23:22:46.808Z
 Engine/Binaries/ThirdParty/OSVRClientKit/bin/Win64/osvrClientKit.dll	2018-08-29T23:22:47.320Z
@@ -30,4 +30,4 @@ MyProject/Content/Movies/diescreen.mp4	2019-05-13T19:10:17.792Z
 MyProject/Content/Movies/diescreen_WITHNAMEspace.mp4	2019-05-13T18:47:16.745Z
 MyProject/Content/Movies/STARTSTARTASTART.mp4	2019-03-27T19:27:43.010Z
 MyProject/Content/Movies/STARTSTARTASTART1.mp4	2019-03-27T20:56:29.927Z
-MyProject.exe	2019-05-14T01:12:28.906Z
+MyProject.exe	2019-05-14T16:43:02.329Z
